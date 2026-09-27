@@ -8,7 +8,7 @@ Scout helps college students discover relevant events without checking a dozen c
 
 ## Project timeline — a note for judges
 
-The idea and an early version of Scout date back to **spring 2026**. The current working implementation of its core features came together recently, ahead of this presentation. **Scout was not built from scratch during this hackathon.** This repository is a fresh, sanitized snapshot for review; its initial commit marks this publication, not the beginning of development.
+The idea and an early version of Scout date back to **spring 2026**. The current working implementation of its core features came together recently, ahead of this presentation. **Scout was not built from scratch during this hackathon.** This repository is a fresh, sanitized snapshot for review; its initial commit marks this publication, not the beginning of development. GoScout was developed and significantly enhanced during ShellHacks 2026. During the hackathon, we focused on bringing the platform together into a complete, polished experience, improving AI-powered event discovery and personalization, refining the search and recommendation pipeline, and preparing the application for real-world use.
 
 ## What to try
 
@@ -165,4 +165,4 @@ public/                   App icons and PWA manifest
 - Search depends on third-party availability and can take time. Campus-calendar coverage currently starts with FIU.
 - Known synchronization and streaming limitations are described in [KNOWN_ISSUES.md](KNOWN_ISSUES.md).
 
-Built by **Maksim (@heyitsmaks)**. This public snapshot contains no previous Git history or deployed credentials. See [SECURITY.md](SECURITY.md) for credential handling.
+Built by **Maksim (@heyitsmaks)**, Bakai(@asylbekovbakai22). This public snapshot contains no previous Git history or deployed credentials. See [SECURITY.md](SECURITY.md) for credential handling.
